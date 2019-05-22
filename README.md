@@ -1,2 +1,2 @@
 # MSSQL_my
-This is scripts for MS SQL for programm AiT
+This is scripts for MS SQL for program 'AiT'
